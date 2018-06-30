@@ -1,0 +1,222 @@
+body, p {
+    font: 12px/1 "Microsoft YaHei", "\u5b8b\u4f53", Tahoma, Geneva, sans-serif;
+    color: #333333;
+}
+body {
+    BACKGROUND: #f5f5f5;
+}
+body {
+    line-height: 1;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+body, ul, ol, li, h1, h2, h3, h4, h5, h6, td, th, form, fieldset, img, dl, dt, dd {
+    margin: 0;
+    padding: 0;
+}
+body, p {
+}
+
+
+#header {
+
+}
+.wrapper {
+
+    width: 100%;
+    margin: 0 auto;
+
+}
+.wrapper .inner {
+
+    width: 1000px;
+    margin: 0 auto;
+
+}
+.head {
+
+    width: 100%;
+    height: 93px;
+    position: relative;
+    background: #FFF;
+
+}
+.logo {
+
+    width: 248px;
+    height: 60px;
+    background: url(../image/index/logo.png) center center no-repeat;
+    position: absolute;
+    left: 12px;
+    top: 20px;
+
+}
+.cen1_right {
+
+  
+
+    text-align: right;
+    position: absolute;
+    top: -8px;
+    right: 35px;
+
+}
+
+.flexslider{margin:2px auto;position:relative;width:1000px;height:348px;overflow:hidden;zoom:1;}
+.flexslider:hover .flex-next{opacity:0.8;filter:alpha(opacity=25);}
+.flexslider:hover .flex-prev{opacity:0.8;filter:alpha(opacity=25);}
+.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover{opacity:0;filter:alpha(opacity=50);}
+
+#nav {
+
+}
+.wrapper {
+
+    width: 100%;
+    margin: 0 auto;
+
+}
+.wrapper .inner {
+
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+.nav{ width:100%; height:38px; line-height:38px; background:url(../image/index/nav_bg.gif) repeat-x;}
+.nav ul li{ float:left; height:38px; line-height:38px; background:url(../image/list1.jpg) no-repeat right; list-style:none;}
+.nav ul li a{ display:block; padding-left:30px; padding-right:30px; font-family:microsoft yahei;text-decoration:none; color:#fff; font-size:16px;}
+
+
+.cen{
+	 width: 1000px;
+	 height: 500px;
+	 margin: 0 auto;
+
+	 
+}
+.cen1{
+	 width: 1000px;
+	 height: auto;
+	 margin: 0 auto;
+	
+	 
+}
+.cen .cenleft{
+	width:260px;
+	height:500px;
+	 background-color:#FFFFFF;
+	 float:left;
+}
+.cen .deng{
+	width:260px;
+	height:48px;
+	background:url(../image/index/deng.gif)
+}	
+.cen .deng1{
+	width:237px;
+	height:150px;
+	margin-left:13px;
+	background:url(../image/index/deng2.gif);
+}	
+.login1{
+	width:220px;
+	height:25px;
+	padding-left:13px;
+	padding-top:8px;
+
+}
+.login2{
+	width:55px;
+	height:23px;
+	
+	background:url(../image/index/login.gif);
+}
+
+.cen .deng2{
+	width:260px;
+	height:48px;
+	background:url(../image/index/deng3.gif);
+	
+	margin-top:15px;
+}
+.d{
+	width:260px;
+	height:13px;
+}
+.cen .deng2 span{
+	padding-left:50px;
+	color:#CB3708;
+
+	
+}
+.cenright{
+	width:735px;
+	height:500px;
+	
+	margin-left:1px;
+	float:right;
+	
+}
+.cenright-top{
+	width:735px;
+	height:25px;
+	
+	margin-top:15px;
+}
+.cenright-top a{
+	margin-left:10px;
+	
+	font-family:microsoft yahei;text-decoration:none; color:#CB3708; font-size:16px;
+
+	}
+.cenright-cen{
+	width:735px;
+	height:5px;
+	background:url(../image/index/cenright1.gif)
+}
+.cenright-cen1{
+	width:735px;
+	height:200px;
+	font-family:microsoft yahei;text-decoration:none; font-size:15px;
+
+}
+.cenright-cen1 table {
+
+    border-collapse: collapse;
+    table-layout: fixed;
+    width:100%;
+}
+.cenright-cen1 table td{
+
+    padding: 5px 5px 5px 0px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow: ellipsis;
+}
+
+.cenright-cen1 table a:link{
+	text-decoration:none;
+	 color:blue;
+}
+.cenright-cen1 table a:hover{
+	color:red;
+}
+
+/* ҳβ*/
+#footer{ width:100%; height:120px; background:#303436; padding-top:28px;font-size:12px;margin-top:5px;}
+#footer .conent_bq{ width:540px; height:93px; margin:0 auto; }
+#footer .conent_bq p{ text-align:center; color:#e4e0e0; line-height:30px;}
+#footer .conent_bq p a{ color:#e4e0e0;}
+#footer .conent_bq .fenx{ width:65px; height:30px; margin:0 auto;}
+#footer .conent_bq .fenx a{ display:block; float:left; width:24px; height:24px;}
+#footer .conent_bq .ximl{ background:url(../image/fenxiang.jpg) no-repeat 0px -2px; }
+#footer .conent_bq .tengxun{background:url(../image/fenxiang.jpg) no-repeat -30px -3px;margin-left:10px;}
+
+

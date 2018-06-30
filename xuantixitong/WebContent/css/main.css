@@ -1,0 +1,98 @@
+.top{
+	height:26px;
+	width:100%;
+	
+}
+.top1{
+	height:26px;
+	width:130px;
+	background:url(../image/main/top1.gif);
+	float:left;
+}
+.top2{
+	height:26px;
+	width:85.747%;
+	background:url(../image/main/top.gif) repeat-x;
+	float:left;
+}
+.top3{
+	height:26px;
+	width:60px;
+	background:url(../image/main/top2.gif);
+	float:right;
+}
+
+.left{
+	width:26px;
+	height:560px;
+	background:url(../image/main/left.gif) repeat-y;
+	float:left;
+}
+.cen{
+	width:98.8%;
+	height:560px;
+	
+	float:left;
+	margin-left:-18px;
+}
+.cen3{
+	width:100%;
+	height:558px;
+	
+}
+.cen-top{
+	height:65px;
+	width:227px;
+	background:url(../image/main/cen-top1.png);
+	float:left;
+}
+.cen-top1{
+	height:26px;
+	width:82.95%;
+	background:url(../image/main/cen-top.gif) repeat-x;
+	float:left;
+}
+.cen-top1 .s{
+	width:40px;
+	margin-left:450px;
+
+	
+}
+.cen-top2{
+	height:39px;
+	width:82.95%;
+	background:url(../image/main/cen-top2.gif) repeat-x;
+	float:left;
+}
+
+
+.right{
+	width:8px;
+	height:560px;
+	background:url(../image/main/right.gif) repeat-y;
+	float:right;
+}
+
+.footer{
+	height:30px;
+	width:100%;
+}
+.footer1{
+	height:30px;
+	width:23px;
+	background:url(../image/main/footer1.gif);
+	float:left;
+}
+
+.footer2{
+	height:30px;
+	width:96.1%;
+	background:url(../image/main/footer2.gif) repeat-x;
+	float:left;
+}
+.footer3{
+	height:30px;
+	width:29px;
+	background:url(../image/main/footer3.gif);
+	float:right;
+}
